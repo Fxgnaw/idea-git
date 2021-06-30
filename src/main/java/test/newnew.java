@@ -6,6 +6,7 @@ public class newnew {
 
     private static int test() {
         a = a + 20;
+
         return a;
     }
 
