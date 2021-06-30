@@ -2,9 +2,10 @@ package test;
 
 public class newnew {
 
-    static int a=20;
+    static int a = 20;
 
-    private static int test(){
+    private static int test() {
+        a = a + 20;
         return a;
     }
 
