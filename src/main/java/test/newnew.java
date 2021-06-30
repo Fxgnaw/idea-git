@@ -3,8 +3,10 @@ package test;
 //666666
 public class newnew {
 
-    public static void main(String[] args) {
-        System.out.println(234);
+    static int a=20;
+
+    private static int test(){
+        return a;
     }
 
 }
